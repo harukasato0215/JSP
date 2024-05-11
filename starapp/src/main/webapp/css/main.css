@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#container{
+	width:80%;
+	margin:0 auto;
+}
+.starBox{
+	padding-bottom:20px;
+	border-bottom:1px solid #aaa;
+}
+.imageBox img{
+	display:block;
+	width:100%;
+}
+.red{
+	color: red;
+}
